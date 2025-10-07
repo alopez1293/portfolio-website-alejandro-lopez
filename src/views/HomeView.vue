@@ -10,7 +10,7 @@
           <h1 class="display-5 fw-bold mb-3">Hi, I’m Alex Lopez.</h1>
           <p class="lead" style="color: var(--text-600)">
             I’m building a professional foundation in web development with a focus on
-            modern JavaScript (Vue 3), responsive UI, and clean, maintainable code.
+             responsive UI, and clean, maintainable code.
             This semester I’ll expand this site with interactive projects and course highlights.
               
           </p>
