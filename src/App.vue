@@ -13,6 +13,7 @@
         <div id="nav" class="collapse navbar-collapse">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item"><router-link class="nav-link" to="/">Home</router-link></li>
+            <li class="nav-item"><router-link class="nav-link" to="/portfolio">Portfolio</router-link></li>
             <!-- future pages:
             <li class="nav-item"><router-link class="nav-link" to="/projects">Projects</router-link></li>
             <li class="nav-item"><router-link class="nav-link" to="/about">About</router-link></li>
